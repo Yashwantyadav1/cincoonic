@@ -26,5 +26,5 @@ for y in fruite :
 for x in range(5,30,4):
     print(x)
 else:
-    print ("finallisttic" )
+    print ("finallistic" )
     
